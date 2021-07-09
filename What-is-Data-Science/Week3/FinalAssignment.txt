@@ -1,0 +1,20 @@
+Q1.Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+
+Data science is the world of data. Data scientist is a person who have passion in data, and some soft skills like curiosity, storytelling and some of humor, he also need some technical skills like manipulating data, data visualization and a little of computational background
+
+Q2.As discussed in the videos and the reading material, data science can be applied to problems across different industries. Give a brief explanation describing what industry  you are passionate about and would like to pursue a data science career in? (2 marks)
+
+Data exists everywhere, for example in medical field we can apply data mining to know the percentage of people caughting a disease or the percentage of people recovered using a type of medicine. But for me i have passion in software or computer science, We can apply data science in technology by analyzing the data from users to know what they are looking for so for example we can make a good recommendation engine for them.
+
+Q3.Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
+
+Cover page
+Table of contents
+Introductory
+Methodology
+Results
+Discussion
+Conclusion
+References
+Acknowledgment
+Appendices
