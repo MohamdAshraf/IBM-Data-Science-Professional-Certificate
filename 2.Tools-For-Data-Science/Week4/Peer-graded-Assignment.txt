@@ -1,0 +1,3 @@
+URL of the publicly viewable notebook, as shared on IBM Watson Studio (2 marks)
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e87af797-0c89-478b-b354-4762c2d894e9/view?access_token=3db9cfdd19b7be65243c15b2126a1207b98a9da3c589ec1dc927493ef495710e
